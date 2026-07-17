@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+input.txt
+speech_log.txt
+chromedriver.log
+.vscode/
+package/.vscode/
+.idea/
+*.log
+.puku/
+check_bom.ps1
